@@ -1,6 +1,3 @@
-// Assignment 1 of Concurrent Programming(CSC 2044)
-// Student ID: 20055810
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
